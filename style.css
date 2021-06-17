@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background: linear-gradient(yellow, blue);
+}
+#bio {
+  padding:20px;
+  font-size:18px; 
+}
+.links {
+float: left;
+color: deepskyblue
+padding-top: 5px;
+padding-left: 9px;
+padding-right: 9px;
+padding-bottom: 5px;
+font-family: fantasy;
+font-size: 20px     
+}
+.links:hover {
+    background-color: greenyellow;
+}
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
